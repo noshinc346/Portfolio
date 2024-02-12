@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(0, 0, 0); 
+    color: white;
+}
+
+h1 {
+
+}
+
+
+h3 {
+
+}
+
+.project-wrapper {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.links {
+    color: white;
+}
+
+.content {
+    display: grid;
+
+}
+
+
+@media all and (max-width: 800px) {
+    body {
+        background-color: rgb(75, 107, 211);
+    }
+    .intro {
+        
+    }
+}
